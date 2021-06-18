@@ -1,1 +1,1 @@
-# simple_ai_projects-Python-
+These are my baby steps towards learning how to program an artificially intelligent system. Feel free to comment on the code and how to make it better. Would be open to collaborate with anyone who is interested.
