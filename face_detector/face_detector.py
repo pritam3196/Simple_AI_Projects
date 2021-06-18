@@ -1,5 +1,6 @@
 import cv2
-from random import randrange
+#if you want to use random colors for the boxes use the following code
+#from random import randrange
 
 #load some pretrained data from harcascade
 trained_face_data = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
